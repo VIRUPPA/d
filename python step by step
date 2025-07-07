@@ -1,0 +1,32 @@
+#variable,string,operator,casting
+
+a = 23
+b =int(input("Enter a number:"))
+c =(a*b)
+print(c)
+
+#conditions 
+#example find a even number from user input
+
+a = int(input("Enter a number:"))
+if a % 2 == 0:
+    print("even number")
+else:
+    print("not even number")
+
+#loop
+#pyramid using for loop
+
+for i in range(1,10):
+    print()
+    for j in range(1,i+1):
+        print(j,end=" ")
+
+#while loop 
+
+i =int(input("Enter a number:"))
+while i <= 19:
+    print("number:",i)
+    i+=1
+
+
