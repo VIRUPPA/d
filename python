@@ -1,0 +1,17 @@
+day1 
+1.variables and datasets
+    a = 63
+    b = "python"
+2.operators
+  c=a+b
+3.casting 
+   a = int(input("10")
+4.conditions
+   if 
+   else
+5.loop 
+   for 
+   nested for 
+   while
+
+  
