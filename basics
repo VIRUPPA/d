@@ -1,0 +1,15 @@
+#class and objects
+
+class students:
+    def __init__(self,name,speed,colour):
+       self.name = name
+       self.speed = speed
+       self.colour = colour
+    def viruppa(self):
+       print("carname is:",self.name)
+       print("high",self.speed)
+       print("beutiful color is",self.colour)
+car1 = students("adi",120,"red")
+car2 = students("toyato",200,"white")
+car1 = viruppa()
+car2 = viruppa()lass and objects 
